@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    body {
+        @apply bg-[#06202A] text-gray-300;
+    }
+}
+
+
+
+
+
+/* h-screen bg-gradient-to-b
+    from-green-200 to-green-500" */
